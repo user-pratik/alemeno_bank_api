@@ -12,7 +12,6 @@ media/
 staticfiles/
 .env
 *.env
-.env.*
 local_settings.py
 
 # VS Code/IDE
