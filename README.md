@@ -50,7 +50,7 @@ cp .env.example .env
 Edit values as needed:
 
 ```env
-DB_NAME=credit_db
+DB_NAME=cas_db
 DB_USER=postgres
 DB_PASSWORD=password
 DB_HOST=db
@@ -131,3 +131,4 @@ Pratik Anand
 📧 Email: pratik.csdev@gmail.com
 
 🧑‍💻 GitHub: github.com/user-pratik
+
